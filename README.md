@@ -1,4 +1,4 @@
-***السلام عليكم ورحمة الله وبركاته***<br />
+![aqxN67i](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/22620b1c-ce00-4228-b36c-6e0eec441c0b)![image](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/cf7a06a3-f24f-4a5f-8b80-0cbc753bb24c)***السلام عليكم ورحمة الله وبركاته***<br />
 ## islam bot Resarches-بوت ألأبحاث ألأسلامية 
 <br />
 
@@ -41,11 +41,58 @@
 
 <br />
 <br />
+
 ***[Command]*** ```addresarchimage``` :<br />
-**هذا الامر عن طريقه يمكنك اضافة صور لبحثك عبر تمرير الرقم التعريفي للبحث الخاص بك(يتم عرضه عند اضافة بحث ويمكنك الاستعلام عنه) وتمرير رابط الصورة ( يشترط ان يكون صيغتهjpeg|jpg|gif|png) وعنوان الصورة**  <br />
+**هذا الامر عن طريقه يمكنك اضافة صور لبحثك عبر تمرير الرقم التعريفي للبحث الخاص بك(يتم عرضه عند اضافة بحث ويمكنك الاستعلام عنه) وتمرير رابط الصورة ( يشترط ان يكون صيغته صيغة صورة) وعنوان الصورة** 
+ <br />
+
 ![image](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/0f863bdb-d856-4d73-9a65-ecaea3b7a90c)
+<br />
+<br />
+
+***[Command]*** ```publish``` :<br />
+**عن طريق هذا الامر يمكنك نشر البحث الخاص بك في الروم المناس عبر وضع ايدي البحث المراد نشره ويتم تحديد الروم عن طريق القائمة التي سيعرضها لك البوت وهذا يرتبط بالكاتيجوريز التي تم وضعها عند تفعيل السيرفر او التي تم اضافتها لاحقا** <br />
+<br />
+**اولا تختار الكاتيجوري** <br />
+
+![OyVHrm6](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/c17adb8a-2a8a-4599-a09f-812452a039ce)
+ <br />
 
 
+**تختار الروم المناسب داخل الكاتيجوري**  <br />
+
+![aqxN67i](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/a12d8838-dc04-4043-9c49-8cdc440f3134)
+ <br />
+
+**انتهاء نشر البحث في الروم**  
+<br />
+
+![image](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/d388ebe8-523b-4bed-8bd7-e03ef4ecd948)
+<br />
+<br />
+
+***[Command]*** ```removeresearch``` :<br />
+**عن طريق هذا الامر يمكنك حذف بحث معين(يشترط ان يكون البحث ملكك)** <br />
+<br />
+<br />
+
+***[Command]*** ```myresearch``` :<br />
+**عن طريق هذا المر يمكنك الاستعلام عن ابحاثك ومعرفة الرقام التعريفية لها**   <br />
+![image](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/0462add8-72a5-4732-b978-0b4553ef79e1)
+
+<br />
+<br />
+
+***[Command]*** ```getallinfrmntion``` :<br />
+**يرسل رسالة نصية فيها جميع الابحاث المرتبطة بسيرفر(لا يزال تحت التعديل)**   <br />
+
+# التحديث القادم
+***التحديث خلال الايام القادمة سأقوم بوضع اوامر جديدة مثل حذف اداري وتعديل البحث وحذف صور تابعة ل بحث معين واعادة بناء نظام الحماية بشكل جديد***
+
+# للتواصل ( للأقتراحات او الثغرات)
+***Discord***: ```alizedan```<br />
+***Gmail***: ```ali.sohel.zedan.1.4.2004@gmail.com```<br />
+***whatsapp***: ```+9720507397306```<br />
 
 
 
