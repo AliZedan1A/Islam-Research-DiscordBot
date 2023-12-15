@@ -1,4 +1,4 @@
-![aqxN67i](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/22620b1c-ce00-4228-b36c-6e0eec441c0b)![image](https://github.com/AliZedan1A/Islam-Research-DiscordBot/assets/92272920/cf7a06a3-f24f-4a5f-8b80-0cbc753bb24c)***السلام عليكم ورحمة الله وبركاته***<br />
+***السلام عليكم ورحمة الله وبركاته***<br />
 ## islam bot Resarches-بوت ألأبحاث ألأسلامية 
 <br />
 
