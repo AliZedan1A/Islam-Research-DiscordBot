@@ -52,18 +52,6 @@ namespace IslamReasearchBot
 
             await RunAsync(host);
         }
-        public  void LoopGameStatus()// Set Game Status
-        {
-            while (true)
-            {
-
-
-                _client.SetGameAsync("asdafd", "https://www.youtube.com/watch?v=W_Mx-Cc8VW8", ActivityType.Watching).GetAwaiter().GetResult();
-                Thread.Sleep(5000);
-                 _client.SetGameAsync("asdafd", "https://www.youtube.com/watch?v=W_Mx-Cc8VW8", ActivityType.Watching).GetAwaiter().GetResult();
-
-            }
-        }
         public async Task RunAsync(IHost host)
         {
             using IServiceScope serviceScope = host.Services.CreateScope();
