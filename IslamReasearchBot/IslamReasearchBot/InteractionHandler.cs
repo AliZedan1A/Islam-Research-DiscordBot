@@ -3,6 +3,7 @@ using Discord.Interactions;
 using Discord.WebSocket;
 using IslamReasearchBot.DataModules;
 using Newtonsoft.Json;
+using System.Diagnostics;
 using System.Reflection;
 
 namespace IslamReasearchBot
@@ -92,6 +93,16 @@ namespace IslamReasearchBot
 
         private Task SlashCommandExecuted(SlashCommandInfo arg1, Discord.IInteractionContext arg2, IResult arg3)
         {
+                  if (!arg3.IsSuccess && arg3.Error.HasValue &&
+    arg3.Error.Value ==  InteractionCommandError.Exception)
+            {
+                arg2.Interaction.RespondAsync("خطأ ما حصل", ephemeral: true);
+            }
+            else if (!arg3.IsSuccess && arg3.Error.HasValue &&
+                arg3.Error.Value == InteractionCommandError.UnmetPrecondition)
+            {
+                arg2.Interaction.RespondAsync("انت لا تملك صلاحية لأستخدام هذا الامر",ephemeral:true);
+            }
             return Task.CompletedTask;
         }
         private async Task HandleInteraction(SocketInteraction arg)

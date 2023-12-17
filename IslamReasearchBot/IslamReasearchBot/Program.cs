@@ -97,8 +97,6 @@ namespace IslamReasearchBot
 
             await _client.LoginAsync(Discord.TokenType.Bot, "token");
             await _client.StartAsync();
-            //Thread thread = new Thread(new ThreadStart(LoopGameStatus));
-            //thread.Start();
             _client.UserJoined += serverjoined;
             await Task.Delay(-1);
         }
