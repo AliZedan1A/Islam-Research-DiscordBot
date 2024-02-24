@@ -109,8 +109,7 @@
 
 # للتواصل ( للأقتراحات او اكتشاف ثغرات)
 ***Discord***: ```alizedan```<br />
-***Gmail***: ```ali.sohel.zedan.1.4.2004@gmail.com```<br />
-***whatsapp***: ```+9720507397306```<br />
+
 
 
 
